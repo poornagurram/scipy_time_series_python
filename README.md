@@ -1,5 +1,5 @@
 # scipy_india_2018
-Time Series Analysis in Python
+__Time Series Analysis in Python__
 
 General Requirements:
 Python 3 installed
